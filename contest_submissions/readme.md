@@ -14,11 +14,29 @@
 
 ## How to Use the Project 🚀
 
-Provide step-by-step instructions on how to set up and use your project. Include any prerequisites and system requirements.
+-create a folder in a location of your choice on your pc
+-open cmd in the folder; top search bar type cmd or in the console type "cd (folderdirectory)"
+-run "npm install XRPL"
+-close cmd
+
+-reopen cmd in folder
+-run "node richlist.js"
+-enjoy
+
+fetched data are located in the project folder.
+
+the project in binded with a batch file so whenever you open the pc, the Richlist run and keep track of the data within a Graphic or circurlar diagram.
+
+a tool like a richlist allow usecase a like tracking the amount of people who use Xaman and have the potential to have a Xaman pro subscription and create dynamic fees around the biggest and smallest holders
+
+
+you can locally have this data or you can implement it on a website.
+
+i currently have no website or domain for this project, i built to learn and for fun 
 
 ## Integration with Xahau Hooks 🔗
 
-Explain how your project leverages Xahau or integrates Hooks. Provide details that demonstrate the integration and any specific features utilized.
+Dynamic fees; the richlist update on a time basis, allowing ajusting the transaction fees based on the account balance of a users. you could make ot higher fees for someome with more Xahau and lower fees for someone with less Xahau
 
 ## Mandatory Tweets 🐦
 
