@@ -1,8 +1,8 @@
 ## Project Overview 📖
 
-- **Project Name:** <!-- Your project's name -->
-- **Folder Project Name Inside submissions Branch:** <!-- Your_name-Your_projects_name -->
-- **Project Description:** <!-- A brief description of your project -->
+- **Project Name:** XahauRichlist
+- **Folder Project Name Inside submissions Branch:** XahauRichlist
+- **Project Description:** allow anyone to fetch and store Xahau richlist data on our PC.
 
 ## Project Details 🛠
 
