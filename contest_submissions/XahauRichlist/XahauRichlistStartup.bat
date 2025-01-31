@@ -1,4 +1,4 @@
 @echo off
-cd /d E:\script\XahauScript
+cd /d DRIVE\LOCATION\XahauRichlist
 node XahauRichlist.js
 pause
