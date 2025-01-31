@@ -26,6 +26,14 @@
 
 -run "node richlist.js"
 
+
+
+do Win+R 
+write "shell:startup" 
+copy XahauRichlistStartup.bat into startup folder
+
+this allow the PC to start with the script and will fetch the data overtime and allow you to customize the data as you want
+
 -enjoy
 
 fetched data are located in the project folder.
