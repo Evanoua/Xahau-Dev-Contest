@@ -14,7 +14,7 @@
 
 ## How to Use the Project 🚀
 
--opem the folder installed in a location of your choice on your pc
+-open the folder installed in a location of your choice on your pc
 
 -open cmd in the folder; top search bar type cmd or in the console type "cd (folderdirectory)"
 
