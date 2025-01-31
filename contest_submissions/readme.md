@@ -15,6 +15,7 @@
 ## How to Use the Project 🚀
 
 -create a folder in a location of your choice on your pc
+
 -open cmd in the folder; top search bar type cmd or in the console type "cd (folderdirectory)"
 
 -run "npm install XRPL"
