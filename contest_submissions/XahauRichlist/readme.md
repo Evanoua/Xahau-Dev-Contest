@@ -48,10 +48,7 @@ Dynamic fees; the richlist update on a time basis, allowing ajusting the transac
 Submissions will be shared and amplified by the @XahauNetwork account, giving your work additional visibility within the community.
 - [ ] **First Mandatory Tweet** announcing your participation:
 
-  - **Link to Tweet:** [Insert the link to your announcement tweet here]
-
-  **Example Tweet:**
-  > We are participating in the Build on Xahau contest! Learn about our project here: [Project Link]
+  - **Link to Tweet:** [https://x.com/XRPQC/status/1884157551778082894]
 
 - [ ] **Second Mandatory Tweet** upon submission for final review:
 
@@ -62,4 +59,4 @@ Submissions will be shared and amplified by the @XahauNetwork account, giving yo
 
 ## Additional Information 📄
 
-Any additional information, notes, or comments you want to include with your submission.
+I am really not a good developper, i believe there is more talented people who deserve to win, i just do this for fun, if i win ill give half the money to my sister so she can own a little bit more of crypto. 
