@@ -16,11 +16,15 @@
 
 -create a folder in a location of your choice on your pc
 -open cmd in the folder; top search bar type cmd or in the console type "cd (folderdirectory)"
+
 -run "npm install XRPL"
+
 -close cmd
 
 -reopen cmd in folder
+
 -run "node richlist.js"
+
 -enjoy
 
 fetched data are located in the project folder.
